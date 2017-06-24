@@ -1,0 +1,38 @@
+body{
+	font-family: "microsoft yahei";
+}
+#bbs{
+	background: #2d2d2d;
+}
+#home{
+	margin-top: -30px;
+}
+#a66{
+	background: #333333;
+	color: white;
+	padding: 38px 0;
+}
+#a2{
+	background: #222222;
+	padding: 12px 0;
+}
+
+#a2 span{
+	color: #999999;
+}
+
+#a2 span:hover{
+	color: white;
+}
+#man{
+	background: url(../img/bg.jpg) no-repeat;
+	background-size: cover;
+}
+#man img{
+	margin: 0 auto;
+}
+footer{
+	
+	padding-top: 80px;
+	padding-bottom: 20px;
+}
